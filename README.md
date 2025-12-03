@@ -1,3 +1,6 @@
+Nome: Carlos Eduardo da Silva
+RA: 42413109
+
 Este projeto pertence a uma atividade da UC de Gestão de Software do centro universitário UNA, onde aplico os conhecimentos de testes unitários e testes BDD em um sistema de hamburgueria.
 
 Observações do projeto:
